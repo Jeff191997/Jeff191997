@@ -18,8 +18,8 @@
 💻 **Languages:** Python, Dart, JavaScript, Java (Basic)  
 🖥️ **Frontend:** ReactJS, HTML, CSS  
 📱 **Mobile Development:** Flutter  
-🛠️ **Backend & Databases:** Firebase, Firestore, MySQL, Flask  
-🛠️ **Other Tools:** Git, AWS, Socket.io  
+🛠️ **Backend & Databases:** Firebase, Firestore, MySQL  
+🛠️ **Other Tools:** Git, Socket.io  
 
 ---
 
